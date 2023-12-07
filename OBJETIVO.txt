@@ -1,0 +1,2 @@
+El objetivo de la aplicacion es calcular los costos de cada receta, calculando la cantidad de materia prima que requiere y su costo.
+Gestionar stock de cada materia prima.

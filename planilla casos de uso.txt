@@ -1,0 +1,34 @@
+REGISTRAR INGREDIENTE
+1. El usuario selecciona la opcion "registrar ingrediente"
+2. El sistema solicita nombre de ingrediente, precio y unidad de medida
+3. El usuario ingresa los datos.
+4. El sistema solicita confirmacion para registrar el ingrediente.
+5. El usuario confirma el registro del ingrediente.
+6. Fin de CU.
+
+Alternativa que se cancele el proceso de registrar ingrediente.
+
+
+REGISTRAR RECETA
+
+1. El usuario selecciona la opcion "registrar receta"
+2. El sistema solicita nombre de receta.
+3. El usuario ingresa el nombre.
+4. El sistema socilita que ingrese los ingredientes y la cantidad a utilizar.
+5. El usuario ingresa los ingredientes y cantidad a utilizar.
+6. El sistema solicita confirmacion de registrar receta.
+7. El usuario confirma el registro de la receta.
+8. Fin de CU.
+
+A5. El usuario selecciona la opcion "registrar ingrediente"
+    El sistema llama al caso de uso "REGISTRAR INGREDIENTE"
+A5. El usuario selecciona la opcion "eliminar ingrediente"
+    El sistema elimina el ingrediente
+
+
+CALCULAR COSTO
+
+1. El sistema consulta todos los detalles de la receta
+2. El sistema consulta los precios de cada ingrediente
+3. El sistema calcula los costos parciales de cada detalle
+4. El sistema calcula el costo total de la receta.
