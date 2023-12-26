@@ -31,4 +31,4 @@ CALCULAR COSTO
 1. El sistema consulta todos los detalles de la receta
 2. El sistema consulta los precios de cada ingrediente
 3. El sistema calcula los costos parciales de cada detalle
-4. El sistema calcula el costo total de la receta.
+4. El sistema calcula el costo total de la receta
